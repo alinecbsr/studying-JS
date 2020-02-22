@@ -19,7 +19,7 @@ os procedimentos que serão executados tentro dessa função.
 
 const teste = function(p1, p2) {};
 
-/* Neste caso acima foi a tribuido a const teste o valor de uma function 
+/* Neste caso acima foi a tribuido a const teste, o valor de uma function 
 A function recebe seus parâmetros e seu corpo. */
 
 const testes = (p1, p2) => {};
