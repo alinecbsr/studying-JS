@@ -8,13 +8,13 @@
 
 `$ nodemon 00-tiposDeDados.js`
 
-Todo comentário do código está escrito para ser visualizado no terminal como string
+Todo comentário do código está escrito para ser visualizado no terminal como string <br />
 por meio do 'console.log()'
 
-Importante ressaltar que todo '**\n-**' visto no código deve ser ignorado
+Importante ressaltar que todo '**\n-**' visto no código deve ser ignorado <br />
 ('**\n-**' é utilizado para quebra de linha dentro de uma string )
 
-Para facilitar a visualização de resultado de bloco de código no terminal,
+Para facilitar a visualização de resultado de bloco de código no terminal, <br />
 na maior parte terá a string '**\$-**' para identificação na frente do resultado.
 
 **Exemplo:-**
