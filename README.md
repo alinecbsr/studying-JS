@@ -1,23 +1,23 @@
 ## _Revisando JavaScript_
 
-**Para facilitar a execução do código no console, utilzar o nodemon no terminal: -**
+**Para facilitar a execução do código no console, utilzar o nodemon no terminal:**
 
-`$ nodemon`**+ nome do arquivo a ser executado-**
+`$ nodemon`**+ nome do arquivo a ser executado**
 
-**Exemplo:-**
+**Exemplo:**
 
 `$ nodemon 00-tiposDeDados.js`
 
 Todo comentário do código está escrito para ser visualizado no terminal como string <br />
-por meio do 'console.log()'
+por meio do 'console.log( )'
 
-Importante ressaltar que todo '**\n-**' visto no código deve ser ignorado <br />
-('**\n-**' é utilizado para quebra de linha dentro de uma string )
+Importante ressaltar que todo ' **\n** ' visto no código deve ser ignorado <br />
+' **\n** ' é utilizado para quebra de linha dentro de uma string
 
 Para facilitar a visualização de resultado de bloco de código no terminal, <br />
-na maior parte terá a string '**\$-**' para identificação na frente do resultado.
+na maior parte terá a string ' **\$** ' para identificação na frente do resultado.
 
-**Exemplo:-**
+**Exemplo:**
 
 ```sh
 const letra = "a";
@@ -26,6 +26,6 @@ case "a":
 console.log(`\n$ ${letra} é uma vogal`);
 ```
 
-**Retornará no terminal:-**
+**Retornará no terminal:**
 
 `$ a é uma vogal`
