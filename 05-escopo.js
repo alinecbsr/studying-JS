@@ -1,6 +1,8 @@
-console.log(`\nO escopo é o contexto onde certas variáveis e expressões estão
-acessíveis dentro de uma área do código. Há três tipos de escopo
-no JavaScript:
+console.log(`\n
+##Escopo 
+
+  Contexto onde certas variáveis e expressões estão cessíveis dentro de uma área do código. 
+  Há três tipos de escopono JavaScript:
 
 - Escopo global: acessível em todas as partes do código no arquivo JS.
 
