@@ -57,7 +57,9 @@ console.log("\n\n_ _ switch _ _\n");
 console.log(
   "- O switch é usado para condições complicadas, onde há a presença de várias casos independentes\n"
 );
-
+console.log(
+  "- Será avaliado se algum caso contén o mesmo valor da expressão\n"
+);
 console.log(
   "- Caso o valor contido em 'letra' seja um dos condicionados em 'case' executará o bloco de código e 'break' \n"
 );
