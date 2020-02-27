@@ -6,6 +6,7 @@ console.log(`
 - Toda função declarada no escopo global também vai possuir o objeto window como valor do this
 - Retorna um objeto que depende do contexto onde é invocada.
 
+_ _ A palavra reservada 'this' em funções:
 
 - Ao ser chamada dentro de uma função normal, será retornado um objeto dependente do escopo daquela função. 
 
