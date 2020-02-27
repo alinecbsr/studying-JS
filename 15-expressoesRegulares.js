@@ -70,3 +70,8 @@ console.log(`\n\n_ _ replace _ _
 - substitui os valores que satisfazem a expressão regular com um novo valor:
 \n`);
 console.log("code13".replace(letters, "-"));
+
+/*_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+console.log(`\nMuito útil por exemplo para validação de entrada de usuário,
+pode usar uma expessão regular para ver se o email é válido, ou o tipo de caracter desejado\n`);
