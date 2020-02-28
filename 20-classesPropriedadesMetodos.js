@@ -29,6 +29,7 @@ p.teste();
 /*_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
 
 /*_ _ e.x.e.m.p.l.o _ _ */
+
 console.log(`\nClasse chamada Retangulo que recebe dois
 parâmetros no construtor (altura, largura).
 Com um método chamado imprimeArea que, ao ser chamado,
